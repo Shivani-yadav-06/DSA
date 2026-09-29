@@ -4,7 +4,6 @@ public:
         int sign = 1;
         int i = 0;
 
-        // trim the starting space from the string
         while (i < s.size() && s[i] == ' ') {
             i++;
         }
@@ -31,6 +30,6 @@ public:
 
             i++;
         }
-        return (int)(sign * res);
+        return (sign * res);
     }
 };
