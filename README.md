@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Shivani-yadav-06/DSA/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/Shivani-yadav-06/DSA/tree/master/0125-valid-palindrome) |
 | [1021-remove-outermost-parentheses](https://github.com/Shivani-yadav-06/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shivani-yadav-06/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -26,10 +27,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Shivani-yadav-06/DSA/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/Shivani-yadav-06/DSA/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Shivani-yadav-06/DSA/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/Shivani-yadav-06/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Shivani-yadav-06/DSA/tree/master/0268-missing-number) |
 ## Binary Search
